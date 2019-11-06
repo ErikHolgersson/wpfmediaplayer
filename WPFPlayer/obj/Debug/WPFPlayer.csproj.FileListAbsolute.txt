@@ -1,0 +1,14 @@
+Z:\Semester 5\AVGP\wpf\WPFPlayer\bin\Debug\WPFPlayer.exe.config
+Z:\Semester 5\AVGP\wpf\WPFPlayer\bin\Debug\WPFPlayer.exe
+Z:\Semester 5\AVGP\wpf\WPFPlayer\bin\Debug\WPFPlayer.pdb
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.csprojAssemblyReference.cache
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\MainWindow.g.cs
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\App.g.cs
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer_MarkupCompile.cache
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer_MarkupCompile.lref
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\MainWindow.baml
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.g.resources
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.Properties.Resources.resources
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.csproj.GenerateResource.cache
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.exe
+Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.pdb
