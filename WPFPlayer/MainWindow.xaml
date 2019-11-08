@@ -11,18 +11,19 @@
             <RowDefinition Height="65*"/>
             <RowDefinition Height="411*"/>
         </Grid.RowDefinitions>
-        <MediaElement x:Name="wpfpanel" HorizontalAlignment="Left" Height="370" VerticalAlignment="Top" LoadedBehavior="Manual"  Width="644" Margin="183,31,0,0" Grid.Row="1"/>
-        <Button x:Name="btn_open" Content="Open File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,10,0,0" Height="81" Grid.RowSpan="2" Click="Button_Click_2"/>
-        <Button x:Name="btn_play" Content="Play" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,31.5,0,0" Height="81" Click="Button_Click_1" Grid.Row="1"/>
-        <Button x:Name="btn_pause" Content="Pause" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,117.5,0,0" Height="81" Grid.Row="1" Click="btn_pause_Click"/>
-        <Slider x:Name="balSlider" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="140" Margin="687,12,0,0" Cursor="Hand" Value="5" ValueChanged="Slider_ValueChanged_1"/>
-        <Slider x:Name="volSlider" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="139" Margin="395,10,0,0" RenderTransformOrigin="0.516,1.708" Cursor="Pen" Maximum="100" Value="20" ValueChanged="Slider_ValueChanged"/>
-        <Slider x:Name="sliderTime" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="432" Margin="395,2.5,0,0" Cursor="Hand" IsEnabled="False" Grid.Row="1"/>
-        <Label Content="Volume&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="292,10,0,0" Width="98"/>
-        <Label Content="Progress" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="292,0.5,0,0" Width="98" Cursor="Hand" Grid.Row="1"/>
-        <Label Content="Balance&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="589,10,0,0" Width="98" Grid.RowSpan="2"/>
-        <Button x:Name="btn_stop" Content="Stop" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,203.5,0,0" Height="81" Grid.Row="1" Click="btn_stop_Click"/>
-        <Button x:Name="btn_fullscreen" Content="Toggle Fullscreen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,289.5,0,0" Height="81" Click="Button_Click" Grid.Row="1"/>
 
+            <MediaElement x:Name="wpfpanel" HorizontalAlignment="Left" Height="370" VerticalAlignment="Top" LoadedBehavior="Manual"  Width="644" Margin="183,31,0,0" Grid.Row="1"/>
+
+                <Button x:Name="btn_open" Content="Open File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,10,0,0" Height="81" Grid.RowSpan="2" Click="Button_Click_2"/>
+                <Button x:Name="btn_play" Content="Play" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,31.5,0,0" Height="81" Click="Button_Click_1" Grid.Row="1"/>
+                <Button x:Name="btn_pause" Content="Pause" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,117.5,0,0" Height="81" Grid.Row="1" Click="btn_pause_Click"/>
+                <Slider x:Name="balSlider" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="140" Margin="687,12,0,0" Cursor="Hand" ValueChanged="Slider_ValueChanged_1" Maximum="100"/>
+                <Slider x:Name="volSlider" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="139" Margin="395,10,0,0" RenderTransformOrigin="0.516,1.708" Cursor="Pen" Maximum="100" ValueChanged="Slider_ValueChanged"/>
+                <Slider x:Name="sliderTime" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="432" Margin="395,2.5,0,0" Cursor="Hand" Grid.Row="1" PreviewDragLeave="sliderTime_PreviewDragLeave" Maximum="100"/>
+                <Label Content="Volume&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="292,10,0,0" Width="98"/>
+                <Label x:Name="lblStatus" Content="Progress" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="292,0.5,0,0" Width="98" Cursor="Hand" Grid.Row="1"/>
+                <Label Content="Balance&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="589,10,0,0" Width="98" Grid.RowSpan="2"/>
+                <Button x:Name="btn_stop" Content="Stop" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,203.5,0,0" Height="81" Grid.Row="1" Click="btn_stop_Click"/>
+        <Button x:Name="btn_fullscreen" Content="Toggle Fullscreen" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Margin="10,289.5,0,0" Height="81" Click="Button_Click" Grid.Row="1"/>
     </Grid>
 </Window>

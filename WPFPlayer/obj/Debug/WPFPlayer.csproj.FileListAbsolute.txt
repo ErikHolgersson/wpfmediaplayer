@@ -12,3 +12,17 @@ Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.Properties.Resources.resour
 Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.csproj.GenerateResource.cache
 Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.exe
 Z:\Semester 5\AVGP\wpf\WPFPlayer\obj\Debug\WPFPlayer.pdb
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\bin\Debug\WPFPlayer.exe.config
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\bin\Debug\WPFPlayer.exe
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\bin\Debug\WPFPlayer.pdb
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer.csprojAssemblyReference.cache
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\App.g.cs
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer_MarkupCompile.cache
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer_MarkupCompile.lref
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\MainWindow.baml
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer.g.resources
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer.Properties.Resources.resources
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer.csproj.GenerateResource.cache
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer.exe
+C:\Users\s77224\Desktop\wpfmediaplayer\WPFPlayer\obj\Debug\WPFPlayer.pdb
